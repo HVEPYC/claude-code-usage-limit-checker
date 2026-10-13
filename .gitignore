@@ -1,0 +1,6 @@
+usage.json
+usage_log.jsonl
+config.json
+__pycache__/
+*.tmp
+.usage.*.tmp
